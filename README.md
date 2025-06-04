@@ -1,2 +1,2 @@
 # course-assets
-Published assignments and other materials for the Data 8R course.  Materials here are generally generated from sources elsewhere, so be sure to understand a file's provenance before you modify it.
+Published assignments and other materials for the Data 8R course taught in Summmer 2017.  Materials here are generally generated from sources elsewhere, so be sure to understand a file's provenance before you modify it. Data 8 materials are typically licensed under CC-BY-NC 4.0. [View the Data 8 Fall 2017 materials license.](https://github.com/data-8/materials-fa17?tab=License-1-ov-file) The Data 8 textbook is protected by CC BY-NC-ND 4.0 where no derivatives or modifications are legally allowed.
